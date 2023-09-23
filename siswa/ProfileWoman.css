@@ -1,0 +1,45 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+background-color: black;
+}
+#awal {
+  background: rgb(252,176,69);
+  background: linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%);
+background-repeat: no-repeat;
+border-radius: 5px;
+}
+header {
+  text-align: center;
+  background: rgba(255,255,225, 0.5);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.border {
+  background: rgba(255,255,225, 0.5);
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.foto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#instagram {
+  background-color: palevioletred;
+  width: 100px;
+  height: 30px;
+}
+#youtube {
+  background-color: red;
+  width: 100px;
+  height: 30px;
+}
+footer {
+  font-size: 15px;
+  text-align: center;
+  padding: 3px;
+}

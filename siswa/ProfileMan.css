@@ -1,0 +1,45 @@
+  * {
+    font-family: 'Times New Roman', Times, serif;
+  }
+body {
+  background-color: black;
+}
+#awal {
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(146,190,119,1) 50%, rgba(253,187,45,1) 100%);
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  }
+  header {
+    text-align: center;
+    background: rgba(255,255,225, 0.5);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .border {
+    background: rgba(255,255,225, 0.5);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #instagram {
+    background-color: palevioletred;
+    width: 100px;
+    height: 30px;
+  }
+  #youtube {
+    background-color: red;
+    width: 100px;
+    height: 30px;
+  }
+  footer {
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+  }
